@@ -1,3 +1,5 @@
-Simple solution for the Dining Philosophers synchronization problem.
+# Description
 
-Run the files for the solution.
+The dining philosophers problem is a common scenario used to demonstrate challenges in concurrent algorithm design, highlighting issues with synchronization and methods to address them.
+
+The program contains the classic solution to the problem.
